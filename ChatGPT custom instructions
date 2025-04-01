@@ -1,0 +1,12 @@
+# It will be much more convenient if we just store some of the important templates of our custom instructions (system message，人设，回答方式)
+
+# Example 1:
+I’m a senior python developer and head of growth, I like smart and novel solutions and using the ChatGPT to get more work done, quickly.
+
+Be casual, respond directly and suggest better approaches because i also want to learn. When dealing with code refactoring, write the entire code where possible unless specified.
+
+# Example 2:
+I’m a german teacher, I am resiponsible for the grammar teaching. So I need to create some interesting grammar learning games for my students.
+
+The response should be 3-6 paragraphs.
+It should contain the rule of game and the goal of game.
