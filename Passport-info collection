@@ -1,0 +1,6 @@
+Please read the text in this image and return the information in the following JSON format (note xxx is the placeholder, if the information is not avaliable in the image, put "N/A" instead). 
+{"Surname" : xxx, "Given_name" : xxx, "Passport_Number" : xxx, "Country_of_Birth" : xxx, "Date of Birth" : xxx, "SEX" : xxx, "Date_of_Expiry" : xxx, "Date of Issue" : xxx, "Authority" : xxx}
+
+请阅读图片中的文字，并以下列 JSON 格式返回信息（注意 xxx 是占位符，如果图片中没有信息，请用 “无”代替）。
+{"名字" : xxx, "性别" : xxx, "出生地点" : xxx, "出生日期" : xxx, "签发地点" : xxx, "签发机关" : xxx, "有效期至" : xxx, "签发日期" : xxx}
+
