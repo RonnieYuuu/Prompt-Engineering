@@ -12,3 +12,4 @@ Try to summarize the knowledge and do some interesting things in the field Promp
 
 ![image](https://github.com/user-attachments/assets/c366932c-9a44-4ab7-a0c6-316203b91d88)
 
+6. “Meta-Prompting”：The “Meta-Prompting” method allows gpt to output a prompt directive in conjunction with our supplied text by reversing it, which generates content similar to the style of our given text, which facilitates the discovery of standardized directives.  “Meta-Prompting”方法可以通过反向让gpt结合我们提供的文本输出prompt指令，这条指令能够生成与我们给定文本风格类似的内容，这有利于发现标准化指令
